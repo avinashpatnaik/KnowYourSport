@@ -64,6 +64,12 @@ https://github.com/avinashpatnaik/KnowYourSport.git
 
 <div>
 
+ <img src="https://github.com/avinashpatnaik/KnowYourSport/blob/master/TwitterPage_google-pixel4xl-ohsoorange-portrait.png" width="220">
+  
+ <img src="https://github.com/avinashpatnaik/KnowYourSport/blob/master/UpcomingAnim_google-pixel4xl-ohsoorange-portrait.png" width="220">
+  
+ <img src="https://github.com/avinashpatnaik/KnowYourSport/blob/master/Upcoming_google-pixel4xl-ohsoorange-portrait.png" width="220">
+ 
 </div>
 
 <div>
