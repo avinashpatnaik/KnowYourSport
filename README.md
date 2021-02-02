@@ -46,58 +46,24 @@ https://github.com/avinashpatnaik/KnowYourSport.git
 <div>
   <img src="https://github.com/avinashpatnaik/KnowYourSport/blob/master/InstagramPage_google-pixel4xl-ohsoorange-portrait.png" width="220">
 
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/img2.jpg" width="220">
 
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/img3.jpg" width="220">
 </div>
 
 <div>
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/img4.jpg" width="220">
 
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/img5.jpg" width="220">
-
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/img6.jpg" width="220">
 </div>
 
 <div>
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/img7.jpg" width="220">
 
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/img8.jpg" width="220">
-
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/img9.jpg" width="220">
 </div>
 
 <div>
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/img10.jpg" width="220">
 
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/img11.jpg" width="220">
-
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/img12.jpg" width="220">
 </div>
 
 <div>
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/img13.jpg" width="220">
 
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/img14.jpg" width="220">
 </div>
 
-## App Working Video
-<a href="https://youtu.be/ow2-rHQwBzY" target="_blank"><img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/video.png" 
-alt="Video Working" width="220" /></a>
 
-## Analytics Screenshots
-<div>
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/firebase_stats.PNG" width="350">
 
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/firebase_stats2.PNG" width="350">
-
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/flurry_stats.PNG" width="350">
-</div>
-
-## Future Scope
-Below are a few of the ideas that I could think of to enhance the application,
-* Add notifications to notify user on match days of selected teams
-* Add offline compatibility using Room and LiveData
-* Adding [Interstitial ads](https://developers.google.com/ad-manager/mobile-ads-sdk/android/interstitial) to monetize the app
-* Add Live scores feature with premium API
-* Monetization using various techniques of in-app purchases
