@@ -76,15 +76,11 @@ https://github.com/avinashpatnaik/KnowYourSport.git
 
 <div>
   
-<img src="https://github.com/avinashpatnaik/KnowYourSport/blob/master/AnalyticsOverview.jpeg" width="350">
+<img src="https://github.com/avinashpatnaik/KnowYourSport/blob/master/AnalyticsOverview.jpeg" width="550" heigh="550">
   
 </div>
-
-<div>
   
 A detailed report of the analytics with the name reach_mobi_coding_task_report.csv is attached.
-
-</div>
 
 
 
