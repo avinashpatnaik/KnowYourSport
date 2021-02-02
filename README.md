@@ -76,7 +76,7 @@ https://github.com/avinashpatnaik/KnowYourSport.git
 
 <div>
   
-  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/AnalyticsOverview.jpeg" width="350">
+  <img src=""https://github.com/avinashpatnaik/KnowYourSport/blob/master/AnalyticsOverview.jpeg" width="350">
   
 </div>
 
