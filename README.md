@@ -34,6 +34,7 @@ https://github.com/avinashpatnaik/KnowYourSport.git
 8. [Google Admob] - To display banner ads in the app
 9. [Firebase Crashlytics] - To track the app's crash rate in real time.
 10.[Firebase RemoteConfig] - To remotely control the visibility of instagram and twitter buttons insidde the application.
+11.[MVVM] - The architecture of the code follows MVVM pattern.
 
 ## Application target platform
 * `minSdkVersion` - 16
@@ -80,7 +81,23 @@ https://github.com/avinashpatnaik/KnowYourSport.git
   
 </div>
   
-A detailed report of the analytics with the name reach_mobi_coding_task_report.csv is attached.
+<div>
+  
+<b> A detailed report of the analytics with the name reach_mobi_coding_task_report.csv is attached. </b>
+
+</div>
+
+## Future Scope
+
+Following are the ideas which could be implemented in the future
+
+* Add more personlisation to the app where the user can potentially store his/her favourite team's information and get alerts for the same.
+* Add offline compatibility using Room and Realm.
+* Leverage the power of remote config to control the color palette of the application.
+* The AdMob feature can be extended by introducing in-app purchases.
+* Inject the power of analytics deep into the application by tracking the kind of sports the users are most interested in and push ads related to that. Or 
+  use the power of analytics to improve the features.
+  
 
 
 
