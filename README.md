@@ -29,7 +29,7 @@ https://github.com/avinashpatnaik/KnowYourSport.git
 3. [ViewModel] - To manage UI-related data in the app lifecycle
 4. [Retrofit 2] - To retrieve the data from API
 5. [Glide] - To render images
-6. [Material Design] - For components such as CardView, Bottom Navbar, Chips, and so on
+6. [Material Design] - For components such as CardView, Bottom Navbar and so on.
 7. [Firebase Analytics] - To keep a track of all the user-engagement
 8. [Google Admob] - To display banner ads in the app
 9. [Firebase Crashlytics] - To track the app's crash rate in real time.
@@ -54,6 +54,12 @@ https://github.com/avinashpatnaik/KnowYourSport.git
 
 <div>
 
+ <img src="https://github.com/avinashpatnaik/KnowYourSport/blob/master/SearchAnim_google-pixel4xl-ohsoorange-portrait.png" width="220">
+  
+ <img src="https://github.com/avinashpatnaik/KnowYourSport/blob/master/SearchPage_google-pixel4xl-ohsoorange-portrait.png" width="220">
+  
+ <img src="https://github.com/avinashpatnaik/KnowYourSport/blob/master/InstagramPage_google-pixel4xl-ohsoorange-portrait.png" width="220">
+  
 </div>
 
 <div>
