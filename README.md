@@ -87,6 +87,14 @@ https://github.com/avinashpatnaik/KnowYourSport.git
 
 </div>
 
+## Remote Config Report
+
+<div>
+  
+<img src="https://github.com/avinashpatnaik/KnowYourSport/blob/master/RemoteConfigReport.PNG" width="550" heigh="550">
+  
+</div>
+
 ## Future Scope
 
 Following are the ideas which could be implemented in the future
