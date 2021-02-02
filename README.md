@@ -44,8 +44,11 @@ https://github.com/avinashpatnaik/KnowYourSport.git
 ## Screenshots
 
 <div>
-  <img src="https://github.com/avinashpatnaik/KnowYourSport/blob/master/InstagramPage_google-pixel4xl-ohsoorange-portrait.png" width="220">
-
+  <img src="https://github.com/avinashpatnaik/KnowYourSport/blob/master/SplashScreen_google-pixel4xl-ohsoorange-portrait.png" width="220">
+  
+  <img src="https://github.com/avinashpatnaik/KnowYourSport/blob/master/ResultsPage_google-pixel4xl-ohsoorange-portrait.png" width="220">
+  
+  <img src="https://github.com/avinashpatnaik/KnowYourSport/blob/master/NoInternet_google-pixel4xl-ohsoorange-portrait.png" width="220">
 
 </div>
 
