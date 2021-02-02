@@ -72,13 +72,13 @@ https://github.com/avinashpatnaik/KnowYourSport.git
  
 </div>
 
-<div>
-
-</div>
+## Analytics Screenshots
 
 <div>
-
+  <img src="https://github.com/Abhishekds94/Sports-Star/blob/master/screenshots/AnalyticsOverview.jpeg" width="350">
 </div>
+
+A detailed report of the analytics with the name reach_mobi_coding_task_report.csv is attached
 
 
 
