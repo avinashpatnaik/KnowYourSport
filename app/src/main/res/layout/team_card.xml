@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.cardview.widget.CardView
+        android:layout_margin="10dp"
+        android:id="@+id/searchCard"
+        app:cardBackgroundColor="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cardElevation="4dp"
+        app:cardCornerRadius="8dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginEnd="5dp">
+
+        <RelativeLayout
+            android:id="@+id/teaminfo"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical">
+
+            <ImageView
+                android:id="@+id/instaIcon"
+                android:layout_alignParentLeft="true"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="55dp"
+                android:layout_marginStart="20dp"
+                android:contentDescription="@string/team_logo"
+                android:layout_alignParentStart="true"
+                android:src="@drawable/insta_icon"
+                android:layout_marginLeft="20dp" />
+
+            <ImageView
+                android:id="@+id/iv_Team"
+                android:layout_width="200dp"
+                android:layout_height="100dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/team_logo"
+                android:src="@drawable/placeholder_card"/>
+
+            <ImageView
+                android:id="@+id/twitterIcon"
+                android:layout_width="35dp"
+                android:layout_alignParentEnd="true"
+                android:layout_toRightOf="@id/iv_Team"
+                android:layout_height="35dp"
+                android:layout_marginTop="55dp"
+                android:layout_marginEnd="95dp"
+                android:contentDescription="@string/team_logo"
+                android:src="@drawable/twitter_icon"
+                android:layout_marginRight="95dp"
+                android:layout_toEndOf="@id/iv_Team"
+                android:layout_alignParentRight="true" />
+
+            <LinearLayout
+                android:id="@+id/introContainer"
+                android:layout_below="@id/iv_Team"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/teamNameLable"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    tools:text="Team Name"
+                    android:text="@string/team_name"
+                    android:layout_weight="1"
+                    android:gravity="start"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:textSize="20sp"
+                    android:fontFamily="@font/averia_libre_bold"
+                    android:textColor="@android:color/black"
+                    android:layout_marginLeft="10dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="@string/hyphen"
+                    android:textColor="@android:color/black"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/teamName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    tools:text="Arsenal"
+                    android:text="@string/arsenal"
+                    android:layout_weight="1"
+                    android:gravity="end"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:layout_marginEnd="10dp"
+                    android:textSize="20sp"
+                    android:fontFamily="@font/averia_libre_bold"
+                    android:textColor="@android:color/black"
+                    android:layout_marginRight="10dp" />
+
+            </LinearLayout>
+
+                <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal"
+                android:layout_weight="2">
+
+                <TextView
+                    android:id="@+id/leagueLabel"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    tools:text="League Name"
+                    android:text="@string/league_name"
+                    android:layout_weight="1"
+                    android:gravity="start"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:textSize="20sp"
+                    android:textColor="@android:color/black"
+                    android:fontFamily="@font/averia_libre_bold"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginStart="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="@string/hyphen"
+                    android:textColor="@android:color/black"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/leagueName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    tools:text="English Prem League"
+                    android:gravity="end"
+                    android:ellipsize="end"
+                    android:layout_weight="1"
+                    android:maxLines="2"
+                    android:text="@string/english_prem_league"
+                    android:fontFamily="@font/averia_libre_bold"
+                    android:layout_marginEnd="10dp"
+                    android:textSize="20sp"
+                    android:textColor="@android:color/black"
+                    android:layout_marginRight="10dp" />
+
+            </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="5dp"
+                    android:orientation="horizontal"
+                    android:layout_weight="2">
+
+                    <TextView
+                        android:id="@+id/foundedInLabel"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:text="Founded In"
+                        android:text="@string/founded_in"
+                        android:layout_weight="1"
+                        android:gravity="start"
+                        android:ellipsize="end"
+                        android:maxLines="2"
+                        android:textSize="20sp"
+                        android:textColor="@android:color/black"
+                        android:fontFamily="@font/averia_libre_bold"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginStart="20dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="@string/hyphen"
+                        android:textColor="@android:color/black"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:id="@+id/foundedInYear"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:text="1892"
+                        android:gravity="end"
+                        android:ellipsize="end"
+                        android:layout_weight="1"
+                        android:maxLines="2"
+                        android:text="@string/_1892"
+                        android:fontFamily="@font/averia_libre_bold"
+                        android:layout_marginEnd="10dp"
+                        android:textSize="20sp"
+                        android:textColor="@android:color/black"
+                        android:layout_marginRight="10dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <ScrollView
+                android:layout_below="@id/introContainer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:fillViewport="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="5dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/shortInfo"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:fontFamily="@font/averia_libre_bold"
+                        android:paddingStart="20dp"
+                        android:paddingEnd="20dp"
+                        android:layout_marginTop="5dp"
+                        android:textSize="15sp"
+                        android:justificationMode="inter_word"
+                        android:textColor="@android:color/black"
+                        android:paddingBottom="10dp"/>
+
+                </LinearLayout>
+
+            </ScrollView>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

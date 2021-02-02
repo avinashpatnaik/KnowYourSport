@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_schedule"
+        android:enabled="true"
+        android:icon="@drawable/ic_schedule"
+        android:title="@string/results"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_search"
+        android:enabled="true"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/upcoming_matches"
+        android:enabled="true"
+        android:icon="@drawable/ic_fixtures"
+        android:title="@string/upcoming"
+        app:showAsAction="ifRoom" />
+</menu>

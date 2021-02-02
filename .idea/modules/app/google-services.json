@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "725951117871",
+    "project_id": "knowyoursport-37a78",
+    "storage_bucket": "knowyoursport-37a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725951117871:android:bf101f938dfa61705064da",
+        "android_client_info": {
+          "package_name": "com.android.mysport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725951117871-58buou8jpm1bfqkj4idettpkl8kuivmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.mysport",
+            "certificate_hash": "a88cc4c2cf439aaffced0a3ae1b16e566e045de2"
+          }
+        },
+        {
+          "client_id": "725951117871-ne676cpk8tl33fpai2fbri8i60jkmg2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH5FXzRH8UyGIIrXWyY1NYqrybyyE93kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725951117871-ne676cpk8tl33fpai2fbri8i60jkmg2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Know your sport</string>
+    <string name="vs">vs</string>
+    <string name="hyphen">-</string>
+    <string name="team_logo">Team Logo</string>
+    <string name="founded_in">Founded In</string>
+    <string name="_1892">1892</string>
+    <string name="admob_app_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="no_events_found">No Events found</string>
+    <string name="no_teams_found">No Teams found</string>
+    <string name="no_network"> No Internet Connection!! \n Please try again later</string>
+    <string name="results">Results</string>
+    <string name="search">Search</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="team_name">Team Name</string>
+    <string name="arsenal">Arsenal</string>
+    <string name="league_name">League Name</string>
+    <string name="english_prem_league">English Prem League</string>
+
+</resources>
