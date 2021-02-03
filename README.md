@@ -32,9 +32,9 @@ https://github.com/avinashpatnaik/KnowYourSport.git
 6. [Material Design] - For components such as CardView, Bottom Navbar and so on.
 7. [Firebase Analytics] - To keep a track of all the user-engagement
 8. [Google Admob] - To display banner ads in the app
-9. [Firebase Crashlytics] - To track the app's crash rate in real time.
-10.[Firebase RemoteConfig] - To remotely control the visibility of instagram and twitter buttons insidde the application.
-11.[MVVM] - The architecture of the code follows MVVM pattern.
+9. [Firebase Crashlytics] - To track the app's crash rate in real time
+10. [Firebase RemoteConfig] - To remotely control the visibility of instagram and twitter buttons insidde the application
+11. [MVVM] - The architecture of the code follows MVVM pattern.
 
 ## Application target platform
 * `minSdkVersion` - 16
