@@ -103,8 +103,8 @@ Following are the ideas which could be implemented in the future
 * Add offline compatibility using Room and Realm.
 * Leverage the power of remote config to control the color palette of the application.
 * The AdMob feature can be extended by introducing in-app purchases.
-* Inject the power of analytics deep into the application by tracking the kind of sports the users are most interested in and push ads related to that. Or 
-  use the power of analytics to improve the features.
+* Inject the power of analytics deep into the application by tracking the kind of sports the users are most interested in and push ads related to that.
+* Use the power of GraphQL to get only desired response.
   
 
 
