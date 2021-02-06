@@ -106,6 +106,7 @@ Following are the ideas which could be implemented in the future
 * Inject the power of analytics deep into the application by tracking the kind of sports the users are most interested in and push ads related to that.
 * Use the power of GraphQL to get only desired response.
 * Get feedback from the user.
+* Include search player by name feature.
   
 
 
