@@ -1,6 +1,6 @@
 # KnowYourSport
 
-KnowYourSport is an Android application that allows users to check the result results, upcoming matches and also to know about their favourite teams.
+KnowYourSport is an Android application that allows users to check the match results, upcoming matches and also to know about their favourite teams.
 The application is developed using the [TheSportsDB](https://www.thesportsdb.com/) API. The apk is attached with a file named app-debug.apk.
 
 
